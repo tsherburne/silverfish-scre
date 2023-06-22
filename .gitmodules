@@ -1,0 +1,4 @@
+[submodule "profiles"]
+	path = profiles
+	url = https://github.com/tsherburne/scre-profile.git
+	branch = main
